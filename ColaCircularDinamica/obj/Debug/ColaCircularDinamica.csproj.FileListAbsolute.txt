@@ -1,0 +1,10 @@
+C:\Users\Gerar\source\repos\ColaCircularDinamica\ColaCircularDinamica\bin\Debug\ColaCircularDinamica.exe.config
+C:\Users\Gerar\source\repos\ColaCircularDinamica\ColaCircularDinamica\bin\Debug\ColaCircularDinamica.exe
+C:\Users\Gerar\source\repos\ColaCircularDinamica\ColaCircularDinamica\bin\Debug\ColaCircularDinamica.pdb
+C:\Users\Gerar\source\repos\ColaCircularDinamica\ColaCircularDinamica\obj\Debug\ColaCircularDinamica.csprojAssemblyReference.cache
+C:\Users\Gerar\source\repos\ColaCircularDinamica\ColaCircularDinamica\obj\Debug\ColaCircularDinamica.Form1.resources
+C:\Users\Gerar\source\repos\ColaCircularDinamica\ColaCircularDinamica\obj\Debug\ColaCircularDinamica.Properties.Resources.resources
+C:\Users\Gerar\source\repos\ColaCircularDinamica\ColaCircularDinamica\obj\Debug\ColaCircularDinamica.csproj.GenerateResource.cache
+C:\Users\Gerar\source\repos\ColaCircularDinamica\ColaCircularDinamica\obj\Debug\ColaCircularDinamica.csproj.CoreCompileInputs.cache
+C:\Users\Gerar\source\repos\ColaCircularDinamica\ColaCircularDinamica\obj\Debug\ColaCircularDinamica.exe
+C:\Users\Gerar\source\repos\ColaCircularDinamica\ColaCircularDinamica\obj\Debug\ColaCircularDinamica.pdb
